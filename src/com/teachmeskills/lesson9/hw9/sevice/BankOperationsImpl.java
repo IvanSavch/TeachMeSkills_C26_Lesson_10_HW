@@ -1,8 +1,6 @@
-package com.teachmeskills.lesson10.hw9.sevice;
+package com.teachmeskills.lesson9.hw9.sevice;
 
-import com.teachmeskills.lesson10.hw9.model.card.BaseCard;
-
-import java.math.BigDecimal;
+import com.teachmeskills.lesson9.hw9.model.card.BaseCard;
 
 public class BankOperationsImpl {
 

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson10.hw9.model.address;
+package com.teachmeskills.lesson9.hw9.model.address;
 
 public class Address {
     private int postcode;

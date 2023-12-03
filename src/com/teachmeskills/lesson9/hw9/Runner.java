@@ -1,12 +1,12 @@
-package com.teachmeskills.lesson10.hw9;
+package com.teachmeskills.lesson9.hw9;
 
-import com.teachmeskills.lesson10.hw9.model.address.Address;
-import com.teachmeskills.lesson10.hw9.model.card.BaseCard;
-import com.teachmeskills.lesson10.hw9.model.card.impl.BelCard;
-import com.teachmeskills.lesson10.hw9.model.card.impl.MasterCard;
-import com.teachmeskills.lesson10.hw9.model.card.impl.VisaCard;
-import com.teachmeskills.lesson10.hw9.model.client.Client;
-import com.teachmeskills.lesson10.hw9.sevice.BankOperationsImpl;
+import com.teachmeskills.lesson9.hw9.model.address.Address;
+import com.teachmeskills.lesson9.hw9.model.card.BaseCard;
+import com.teachmeskills.lesson9.hw9.model.card.impl.BelCard;
+import com.teachmeskills.lesson9.hw9.model.card.impl.MasterCard;
+import com.teachmeskills.lesson9.hw9.model.card.impl.VisaCard;
+import com.teachmeskills.lesson9.hw9.model.client.Client;
+import com.teachmeskills.lesson9.hw9.sevice.BankOperationsImpl;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package com.teachmeskills.lesson10.hw9.model.card;
-
-import java.math.BigDecimal;
+package com.teachmeskills.lesson9.hw9.model.card;
 
 public abstract class BaseCard {
     private static long count = 0;

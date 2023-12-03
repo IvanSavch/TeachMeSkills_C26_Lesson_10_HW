@@ -1,8 +1,6 @@
-package com.teachmeskills.lesson10.hw9.model.card.impl;
+package com.teachmeskills.lesson9.hw9.model.card.impl;
 
-import com.teachmeskills.lesson10.hw9.model.card.BaseCard;
-
-import java.math.BigDecimal;
+import com.teachmeskills.lesson9.hw9.model.card.BaseCard;
 
 public class VisaCard extends BaseCard {
     private static final int  COMMISSION_VISA_CARD = 3;

@@ -1,9 +1,7 @@
-package com.teachmeskills.lesson10.hw9.model.client;
+package com.teachmeskills.lesson9.hw9.model.client;
 
-import com.teachmeskills.lesson10.hw9.model.address.Address;
-import com.teachmeskills.lesson10.hw9.model.card.BaseCard;
-
-import java.util.Arrays;
+import com.teachmeskills.lesson9.hw9.model.address.Address;
+import com.teachmeskills.lesson9.hw9.model.card.BaseCard;
 
 public class Client {
     private String name;
