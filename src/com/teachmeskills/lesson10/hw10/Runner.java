@@ -13,7 +13,7 @@ public class Runner {
         BaseCard master = new MasterCard(333, "1234-5678-2345", 599);
         BaseCard bel = new BelCard(321, "4321-1234-2345", 599);
         BaseCard visa2 = new VisaCard(123, "1234-1234-2345", 599);
-        BaseCard[] baseCards = new BaseCard[]{ visa, master, bel};
+        BaseCard[] baseCards = new BaseCard[]{visa2, visa, master, bel};
         Client client = new Client("Ivan", baseCards);
 
         if (client.getBaseCards().length != 0) {
